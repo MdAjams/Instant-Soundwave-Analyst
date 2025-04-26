@@ -42,19 +42,19 @@ The workflow includes:
 - Useful for research on music therapy or marketing wellness-focused playlists.
 ## Folder Structure
 ```
-📂 spotify-analysis
-├── 📄 new_spotify_featured_data.csv
-├── 📄 Spotify_Analysis.ipynb
+📂 MXMH-analysis
+├── 📄 mxmh_survey_cleaned.csv
+├── 📄 MXMH.ipynb
 ├── 📄 README.md
 ├── 📄 requirements.txt
-└── 📂 images (for visualizations)
+└── 📂 assests (for visualizations)
 ```
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/spotify-dashboard.git
    ```
-2. Open the Power BI file (`Spotify_Dashboard.pbix`).
+2. Open the Power BI file (`MXMH Dashboard.pbix`).
 3. Explore the interactive dashboard to analyze trends.
 
 ## 💻 My Experience Working on This Project
@@ -84,6 +84,10 @@ This project was a fantastic journey, combining my love for **data analytics, SQ
 
 ## 📊 Popular Genre Distribution
    Highlights which genres dominate listening habits across different user groups.
+   ![Cover Page](assets/Cover%20Page.png)
+   ![Dashboard](assets/Dashboard.png)
+   ![MusicXMind Survey Insights](assets/MusicXMind%20Survey%20Insights.png)
+
 
 #🚀 Why This Dashboard Stands Out
    🌟 Comprehensive Psychological & Behavioral Insights
