@@ -39,10 +39,9 @@ The workflow includes:
 ### 🔹 Mental Health and Music Habits
 - Explores correlations between **music listening habits** and **mental health indicators** like anxiety and insomnia.
 - Useful for research on music therapy or marketing wellness-focused playlists.
-
----
-
-## 📂 spotify-analysis
+## Folder Structure
+```
+📂 spotify-analysis
 ├── 📄 new_spotify_featured_data.csv
 ├── 📄 Spotify_Analysis.ipynb
 ├── 📄 README.md
@@ -50,9 +49,9 @@ The workflow includes:
 └── 📂 images (for visualizations)
 ```
 ## 🚀 How to Use
-  1. Clone this repository:
+1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/spotify-dashboard.git
-```
+   ```
 2. Open the Power BI file (`Spotify_Dashboard.pbix`).
 3. Explore the interactive dashboard to analyze trends.
