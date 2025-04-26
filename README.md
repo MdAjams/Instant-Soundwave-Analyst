@@ -1,5 +1,6 @@
 # 🎵 M.X.M.H. Survey Data Analysis & Dashboard Documentation
-![image](https://github.com/user-attachments/assets/e38b59c1-9527-49db-83ef-196bacbbca80)
+![Cover Page](assets/Cover%20Page.png)
+
 
 ## 📌 Project Overview
 This project analyzes the M.X.M.H. survey dataset to uncover patterns between music preferences, daily listening habits, and mental health indicators.  
