@@ -87,8 +87,8 @@ This project was a fantastic journey, combining my love for **data analytics, SQ
    ![Cover Page](assets/Cover%20Page.png)
    ![Dashboard](assets/Dashboard.png)
    ![MusicXMind Survey Insights](assets/MusicXMind%20Survey%20Insights.png)
-
-
+# Presention of my project  
+   https://drive.google.com/file/d/1VkRnPIqEw3eNWhehwHHGobOzxL1gtZIj/view?usp=sharing
 #🚀 Why This Dashboard Stands Out
    🌟 Comprehensive Psychological & Behavioral Insights
    The dashboard combines mood analysis, demographic segmentation, and music preference trends into one interactive platform, making it a powerful tool for researchers and     stakeholders.
